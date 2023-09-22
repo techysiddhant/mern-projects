@@ -1,0 +1,16 @@
+20230712	15:57:34	b34824e4-5aed-4ceb-a874-cb6e59205984	Error: Not allowed by CORS	OPTIONS	/	https://www.google.com
+20230712	15:57:34	19a7a7b1-3231-4a28-b19e-dd5f7bb43db4	Error: Not allowed by CORS	GET	/	https://www.google.com
+20230826	01:23:46	cff562cc-f3a7-4dbb-9457-8d2e3ec94b27	SyntaxError: Unexpected token } in JSON at position 78	POST	/users	undefined
+20230826	01:27:12	4e774da7-db67-4935-a0ad-e0eeae983f1a	CastError: Cast to ObjectId failed for value "64e905f0306033badef1e57a1" (type string) at path "_id" for model "User"	PATCH	/users	undefined
+20230828	01:55:10	aa809e8b-ceb2-4958-8b98-f0f2868ae704	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "ONE" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
+20230908	14:13:06	19bb62be-a390-4dc1-8f42-30fdba8cee7b	MongoServerSelectionError: getaddrinfo ENOTFOUND ac-lo5rpxx-shard-00-01.udqflxk.mongodb.net	POST	/auth	http://localhost:3001
+20230908	14:14:46	7049bab5-83ac-47e5-9f8d-cbd77c5efebd	MongoServerSelectionError: getaddrinfo ENOTFOUND ac-lo5rpxx-shard-00-01.udqflxk.mongodb.net	POST	/auth	http://localhost:3001
+20230910	13:21:56	dd37180c-abb5-4eb5-9dc9-84757d259c1f	ReferenceError: mongoose is not defined	POST	/notes	undefined
+20230910	13:22:25	e73f5704-9cf9-46f7-8b0a-0371f4c4934f	TypeError: Class constructor ObjectId cannot be invoked without 'new'	POST	/notes	undefined
+20230910	13:25:26	ce4ab6ad-2abc-421a-8f07-58cdf7aa1652	TypeError: Class constructor ObjectId cannot be invoked without 'new'	POST	/notes	undefined
+20230910	13:38:18	07c390ac-085d-4f8f-84f3-d1767fa22617	ReferenceError: ObjectId is not defined	POST	/notes	undefined
+20230910	13:41:22	56cd0046-4ebc-475b-84e8-b8d6b5e3d8ef	TypeError: Class constructor ObjectId cannot be invoked without 'new'	POST	/notes	undefined
+20230910	18:40:03	783ab87b-ea19-4618-8c55-0170fa110e23	TypeError: Class constructor ObjectId cannot be invoked without 'new'	POST	/notes	undefined
+20230910	18:55:10	1f794146-55df-436c-9bc9-7fccad048f83	TypeError: Class constructor ObjectId cannot be invoked without 'new'	POST	/notes	undefined
+20230910	18:55:57	6cafdbb5-08ec-4d36-952a-b2d5aab63a5d	ReferenceError: userId is not defined	POST	/notes	undefined
+20230910	18:56:18	5ed201cb-2206-47a7-a715-1f5be49e8049	ReferenceError: note is not defined	POST	/notes	undefined
