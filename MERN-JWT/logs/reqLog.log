@@ -689,3 +689,15 @@
 20230911	11:10:44	d3350b8e-f845-407d-87a6-3e65a8434de7	GET	/users	http://localhost:3001
 20230911	11:11:12	72b90ff2-1e16-40d6-a63e-ab9cc088904a	OPTIONS	/auth/logout	http://localhost:3001
 20230911	11:11:12	c79e7322-706d-43bd-af12-3b1e5504e8d9	POST	/auth/logout	http://localhost:3001
+20240128	11:39:33	ada8bb0d-2e2d-442f-a087-b265ed499162	OPTIONS	/auth	http://localhost:3001
+20240128	11:39:33	cf196b05-26b9-44ab-96cf-e9cabe1b6a82	POST	/auth	http://localhost:3001
+20240128	11:39:39	ebfe11a3-cd3c-41c1-8baa-0cfbd78b78b1	OPTIONS	/auth	http://localhost:3001
+20240128	11:39:39	fbbe6500-5fa8-485a-9e7a-9b5b3d57af77	POST	/auth	http://localhost:3001
+20240128	11:43:16	7bbdc1b8-3b34-4580-9cc0-27122ca7e0bb	OPTIONS	/auth	http://localhost:3001
+20240128	11:43:16	4a9eb3b9-1d2c-4b7c-890d-b10b16aa0e97	POST	/auth	http://localhost:3001
+20240128	11:44:30	7e2e2784-0c30-4664-9ecd-934c2706bcef	OPTIONS	/auth	http://localhost:3001
+20240128	11:44:30	dc0a722e-a8e9-4c17-9eeb-f4e46ba9251b	POST	/auth	http://localhost:3001
+20240128	11:44:31	de157a74-cac4-4606-9afa-5b56ace06ecd	OPTIONS	/notes	http://localhost:3001
+20240128	11:44:31	bde10dc0-a14e-49f0-888f-d0362ced5792	OPTIONS	/users	http://localhost:3001
+20240128	11:44:31	0c82908d-a823-4036-a2db-c9c7d0744e15	GET	/notes	http://localhost:3001
+20240128	11:44:31	b0156319-d6a7-423b-8767-6571e3671750	GET	/users	http://localhost:3001

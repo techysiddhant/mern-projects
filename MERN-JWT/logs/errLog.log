@@ -14,3 +14,5 @@
 20230910	18:55:10	1f794146-55df-436c-9bc9-7fccad048f83	TypeError: Class constructor ObjectId cannot be invoked without 'new'	POST	/notes	undefined
 20230910	18:55:57	6cafdbb5-08ec-4d36-952a-b2d5aab63a5d	ReferenceError: userId is not defined	POST	/notes	undefined
 20230910	18:56:18	5ed201cb-2206-47a7-a715-1f5be49e8049	ReferenceError: note is not defined	POST	/notes	undefined
+20240128	11:39:39	7ecbeae1-d374-4e0f-8742-87be9ecea311	Error: secretOrPrivateKey must have a value	POST	/auth	http://localhost:3001
+20240128	11:43:17	9807f2a7-0138-4cbb-bda6-b2a3531420f0	Error: secretOrPrivateKey must have a value	POST	/auth	http://localhost:3001
